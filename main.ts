@@ -37,6 +37,3 @@ while (start == 0) {
     basic.clearScreen()
     basic.pause(500)
 }
-basic.forever(function () {
-	
-})
